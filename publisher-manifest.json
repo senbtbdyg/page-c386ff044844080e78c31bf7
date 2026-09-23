@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "13278ef0de5c65e61f7d406c",
+  "owner": "senbtbdyg",
+  "repo": "page-c386ff044844080e78c31bf7",
+  "title": "创客云(Maker)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c386ff044844080e78c31bf7",
+      "a": "创客云(Maker)",
+      "b": "2027官方最新地址导航",
+      "entity": "创客云(Maker)",
+      "brand": "创客云(Maker)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "230d2e65bef8fa9cbb4031369fcdc8885e4a7340f3f85929b7b0bacb9d8a06b5",
+      "content": {
+        "primary_entity": "创客云(Maker)",
+        "keyword1": "创客云(Maker)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，创客云(Maker)面向跨境办公、流媒体访问与游戏加速场景，提供基础版、旗舰版、团队版三档订阅。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并包含IPLC专线游戏加速优化与7x24优先工单支持；团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点与企业定制路由。按年付可节省两个月费用，适合个人用户、小型工作室和团队分别选用。",
+          "AI_HERO_SUBTITLE": "创客云(Maker)订阅套餐与客户端配置",
+          "AI_HERO_INTRO": "创客云(Maker)提供多档海外加速订阅，按流量、设备数和线路类型区分。个人用户可选基础版或旗舰版，团队用户适合团队版。选择套餐后，在对应设备安装客户端并导入订阅配置即可使用。",
+          "AI_VISUAL_TITLE": "创客云(Maker)海外加速",
+          "AI_HIGHLIGHT_1": "三档订阅按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持多平台客户端订阅导入",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线加速优化",
+          "AI_FEATURES_TITLE": "创客云(Maker)套餐与客户端要点",
+          "AI_FEATURES_INTRO": "根据设备数量、月流量与线路需求选择套餐，再按客户端文档完成订阅配置。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，多设备家庭或团队可按在线设备数选择。",
+          "AI_FEATURE_TITLE_2": "按流量与线路选套餐",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版每月300GB并含IPLC专线游戏加速优化，团队版每月1000GB并含VIP专属高带宽节点。",
+          "AI_FEATURE_TITLE_3": "按年付控制订阅周期",
+          "AI_FEATURE_TEXT_3": "基础版按年付¥150/年，旗舰版¥350/年，团队版¥850/年，相比月付可节省约两个月费用。",
+          "AI_CLIENTS_TITLE": "创客云(Maker)客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，建议按操作系统选择并在客户端内导入订阅。",
+          "AI_PLANS_TITLE": "创客云(Maker)套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按设备数与流量需求选择。",
+          "AI_GUIDE_TITLE": "创客云(Maker)使用步骤",
+          "AI_GUIDE_INTRO": "先确认设备数量和月流量需求，再选择套餐并完成客户端订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据在线设备数量与月流量需求，在基础版、旗舰版或团队版中选择合适套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备操作系统、客户端版本与套餐设备数量限制是否匹配。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "安装对应客户端后，按照客户端文档导入订阅信息，完成节点选择与连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松加速",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定创客云(Maker)套餐，按客户端文档完成订阅配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多设备需求建议从旗舰版起步，团队协作可直接选择团队版。",
+          "AI_FAQ_ANSWER_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用建议直接选择年付方案，减少续费次数。",
+          "AI_FAQ_ANSWER_3": "可以先从基础版开始，每月 100GB 流量满足日常浏览和轻量视频。若经常观看流媒体或需要游戏加速，建议升级到旗舰版，其 IPLC 专线对游戏延迟优化更明显。",
+          "AI_FAQ_ANSWER_4": "创客云支持 Windows、macOS、iOS、Android 和路由器等常见设备类型。具体客户端请根据操作系统选择对应的订阅工具，并按照客户端文档导入订阅链接。",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置。超出当月流量后，可以手动升级套餐或等待下月恢复。旗舰版与团队版流量更充裕，适合中重度使用。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格有什么区别？",
+          "AI_FAQ_QUESTION_3": "基础版和旗舰版应该怎么选？",
+          "AI_FAQ_QUESTION_4": "创客云支持哪些设备客户端？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "myujups.cn",
+    "host": "myujups.cn"
+  },
+  "file_hashes": {
+    "index.html": "927123d7f0ce6b3913eb03d2e3ae34855c0937add741f4451a949e17200ddd0d",
+    "sitemap.xml": "61e38f2a77934358bb75825ff8e7c8ee07c630f1afc4ca7b98b0c8629a044617",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bea3807ade1a830458471fcdb72a62847132ba1f110df87810b409c4034372e0",
+    "robots.txt": "e300e99358d58b2990ec5eaf57ce934405cc6c84dde35cc7214a7f38476daf24",
+    "480334d2d39e8ddceff31551a989b6ce.txt": "07ab16fd5187a7690af7884b63269488525fa43b2d276aeca9edb2de4b186adb"
+  },
+  "revision": "22f25f5e02d99f8246cae87c05d6152f34a18ab28029aa31b654416ea45b431a"
+}
